@@ -8,7 +8,7 @@ public class HiMyRoom {
                 int result = SumOfNumber(7, 3);
                 System.out.println(result);
             }
-
+//test comment
     }
     public static int SumOfNumber(int a, int b){
         return a+b;
